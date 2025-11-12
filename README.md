@@ -68,3 +68,9 @@ To Stop Everything
 Press Ctrl + C in the Flask terminal to stop the server.
 
 Press Ctrl + C in the Ollama terminal to stop the model.
+***To open in terminal the commands are***
+1.python -m venv venv
+2.ollama ps
+3.ollama run llama3.2:1b
+4.and then open new cmd prompt
+5.python app.py
